@@ -1,7 +1,7 @@
 === WooCommerce Calculate Shipping Button ===
 Contributors: Ravish Pandey Gameraiderr
 Donate link: http://gameraiderr.com/
-Tags: woocommerce, spam
+Tags: woocommerce
 Requires at least: 3.0.1
 Tested up to: 3.8
 Stable tag: 1.0.0
